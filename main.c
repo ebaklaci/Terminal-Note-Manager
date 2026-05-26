@@ -116,7 +116,7 @@ for(i=0;i<n;i++){
 fprintf(dosya,"%s\n",k[i].metin);
 }
 fclose(dosya);
-printf("\ndosyaya yazma basariyla gerceklesti");
+printf("\ndosyaya yazma basariyla gerceklestirildi");
 }
 
 void dosyayadanoku(){
